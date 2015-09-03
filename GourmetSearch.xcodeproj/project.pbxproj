@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		897B8CBC3DAED1BD71FCE703 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 665637AB6CB6B5FBCCA3D458 /* Pods.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		9FAF5EAA1B981EC500E762E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FAF5EA91B981EC500E762E4 /* AppDelegate.swift */; };
-		9FAF5EAC1B981EC500E762E4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FAF5EAB1B981EC500E762E4 /* ViewController.swift */; };
+		9FAF5EAC1B981EC500E762E4 /* ShopListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FAF5EAB1B981EC500E762E4 /* ShopListViewController.swift */; };
 		9FAF5EAF1B981EC500E762E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FAF5EAD1B981EC500E762E4 /* Main.storyboard */; };
 		9FAF5EB11B981EC500E762E4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FAF5EB01B981EC500E762E4 /* Images.xcassets */; };
 		9FAF5EB41B981EC500E762E4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FAF5EB21B981EC500E762E4 /* LaunchScreen.xib */; };
@@ -32,7 +32,7 @@
 		9FAF5EA41B981EC500E762E4 /* GourmetSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GourmetSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FAF5EA81B981EC500E762E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FAF5EA91B981EC500E762E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9FAF5EAB1B981EC500E762E4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9FAF5EAB1B981EC500E762E4 /* ShopListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopListViewController.swift; sourceTree = "<group>"; };
 		9FAF5EAE1B981EC500E762E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9FAF5EB01B981EC500E762E4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		9FAF5EB31B981EC500E762E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				9FAF5EA91B981EC500E762E4 /* AppDelegate.swift */,
-				9FAF5EAB1B981EC500E762E4 /* ViewController.swift */,
+				9FAF5EAB1B981EC500E762E4 /* ShopListViewController.swift */,
 				9FAF5EAD1B981EC500E762E4 /* Main.storyboard */,
 				9FAF5EB01B981EC500E762E4 /* Images.xcassets */,
 				9FAF5EB21B981EC500E762E4 /* LaunchScreen.xib */,
@@ -291,7 +291,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9FAF5EAC1B981EC500E762E4 /* ViewController.swift in Sources */,
+				9FAF5EAC1B981EC500E762E4 /* ShopListViewController.swift in Sources */,
 				9FAF5EAA1B981EC500E762E4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
