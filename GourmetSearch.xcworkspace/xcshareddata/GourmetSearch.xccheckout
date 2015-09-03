@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>838CF28B-4156-4D1C-A05B-7D173AC84BB8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GourmetSearch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>465335EFED75F0DA92AB3F3D349466CB4CB59635</key>
+		<string>github.com:kyuratan/GourmetSearch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GourmetSearch.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>465335EFED75F0DA92AB3F3D349466CB4CB59635</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kyuratan/GourmetSearch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>465335EFED75F0DA92AB3F3D349466CB4CB59635</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>465335EFED75F0DA92AB3F3D349466CB4CB59635</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GourmetSearch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
